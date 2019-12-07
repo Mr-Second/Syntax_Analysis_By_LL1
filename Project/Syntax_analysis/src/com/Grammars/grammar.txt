@@ -1,0 +1,6 @@
+S -> %aT|U!
+T -> aS
+T -> baT
+T -> ε
+U -> #aTU
+U -> ε
